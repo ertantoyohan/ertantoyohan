@@ -57,10 +57,12 @@ website    : https://ertantoyohan.com
 ### 🖥️ OS & Networking
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 ### 💻 Scripting & Automation
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
@@ -72,13 +74,13 @@ website    : https://ertantoyohan.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ertantoyohan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertantoyohan&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
+<img height="180em" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=ertantoyohan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+<img height="180em" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=ertantoyohan&layout=compact&langs_count=8&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ertantoyohan&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=ertantoyohan&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=e2e8f0&sideNums=e2e8f0&currStreakNum=ffffff" />
 </div>
 
 ---
