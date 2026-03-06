@@ -70,19 +70,6 @@ website    : https://ertantoyohan.com
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=ertantoyohan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-<img height="180em" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=ertantoyohan&layout=compact&langs_count=8&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=ertantoyohan&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=e2e8f0&sideNums=e2e8f0&currStreakNum=ffffff" />
-</div>
-
 ---
 
 ## 🧠 What I Do Best
