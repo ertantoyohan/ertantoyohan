@@ -70,8 +70,6 @@ website    : https://ertantoyohan.com
 
 ---
 
----
-
 ## 🧠 What I Do Best
 
 ```bash
